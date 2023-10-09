@@ -14,7 +14,7 @@ This project is a Blog Analytics and Search Tool implemented using Express.js an
 
 - `Navbar.js`: The navbar component for navigation between analytics and search.
 
-- `Analytics.js`: The analytics component that displays the analyzed data.
+- `StaticsData.js`: The analytics component that displays the analyzed data.
 
 - `SearchBar.js`: The search bar component that allows users to search blogs by title.
 
