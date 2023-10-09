@@ -10,7 +10,7 @@ This project is a Blog Analytics and Search Tool implemented using Express.js an
 
 - `server.js`: In this file, you can find the normal implementation of the `/api/blog-stats` and `/api/blog-search` endpoints without caching. It provides the basic functionality of fetching blog data and performing analytics.
 
-- `frontend/`: This directory contains the frontend components of the application.
+- `Components/`: This directory contains the frontend components of the application.
 
 - `Navbar.js`: The navbar component for navigation between analytics and search.
 
